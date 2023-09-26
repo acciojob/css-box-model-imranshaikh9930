@@ -1,2 +1,22 @@
-
+%
 /* Your CSS Code here. */
+
+.container{
+	border:1px solid black;
+
+	width:100vw;
+
+	height:100vh;
+}
+
+.sub-container1{
+	background:#7F00FF;
+	margin:20px;
+	border:2px solid black;
+	height:94%;
+}
+
+.sub-container2{
+	height:90%;
+	background:#B3EFFF;
+}
